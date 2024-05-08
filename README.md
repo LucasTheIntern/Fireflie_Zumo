@@ -10,11 +10,11 @@
    - Code for SEEED XIAO module to act as access point for wifi control.
    - Open and flash using VS code and PIO extension.
    - To control with wifi,
-       a. Power on Zumo
-       b. On a laptop (doesn't work on mobile), find the "ESP32-Network" in available wifi networks and connect.
-       c. When prompted for the network security key, enter "Esp32-Password".
-       d. Once connected (will not have internet connection), Enter "http://192.168.4.1/" in a browser search bar.
-       e. Click "Arm Zumo" and then drive as desired. Note that the webpage is buggy and often slow to respond... drive accordingly!
+       a). Power on Zumo.
+       b). On a laptop (doesn't work on mobile), find the "ESP32-Network" in available wifi networks and connect.
+       c). When prompted for the network security key, enter "Esp32-Password".
+       d). Once connected (will not have internet connection), Enter "http://192.168.4.1/" in a browser search bar.
+       e). Click "Arm Zumo" and then drive as desired. Note that the webpage is buggy and often slow to respond... drive accordingly!
 4. "Zumo_joystick_drive.py":
    - Python script for controlling the Zumo robot with a game controller.
    - May need to update your pygame and pyserial libraries if it's been a while.
