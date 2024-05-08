@@ -24,3 +24,9 @@
    - CAN be used at the same time as wifi control, but this is NOT recommended! 
 5. "SolidWorks":
    - CAD models (sldprt files) for the 3D printed mounts. 
+
+
+Other notes:
+
+The zumo robot can drive in a straight line continuously for approximately three hours on a full charge with no load. 
+
